@@ -1,122 +1,83 @@
-### Hi there 👋
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
-    </a>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到我的GitHub个人主页！;我是岳傲天+-+一名热爱编程的开发者;让编程创造无限可能" />
 </div>
 
-  ---
-
-<!--
-**shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
-</a>
-
-### Hello World!  I am <b>Pancake<a target="_blank" href="javascript:;"></a></b>
-
-
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: Highlights of my successful endeavors.
-
+<div align="center">
+  <img src="https://img.shields.io/github/followers/yuaotian?label=关注者&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/yuaotian?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=yuaotian&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+</div>
 
 <br/>
+
+<img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+
+### 👨‍💻 关于我
+
+- 🔭 正在从事令人兴奋的开源项目开发
+- 🌱 专注于 Java、Go、C# 和云原生技术
+- 💡 热衷于探索新技术栈和构建有趣的项目
+- 🎯 目标：为更多开源项目做出贡献(🤣如果我有时间的话)
+- ⚡  我不想把时间浪费在无意义的事情上，哪怕拉屎没带纸。
+
 <br/>
-<br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yuaotian/count.svg)th visitor
+### 🛠️ 技术栈
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,c#,docker,mysql,redis,nginx,linux,git,vim,pycharm,idea,vscode" />
+</div>
 
-<!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/yuaotian/yuaotian/refs/heads/output/github-contribution-grid-snake.svg)
+### 📊 GitHub 统计
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+</div>
 
-### Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,docker,mysql,redis,nginx,linux,git,vim,pycharm,idea,vscode" />
+### 🐍 贡献图
+
+![贡献统计](https://raw.githubusercontent.com/yuaotian/yuaotian/refs/heads/output/github-contribution-grid-snake.svg)
+
+### 📈 活动图表
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuaotian&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+
+### ⌛ 编码时间统计
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuaotian&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
+
+### 🤝 联系方式
+
+<div align="center">
+  <a href="https://github.com/yuaotian">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yuaotian&abbreviated=true&color=yellow" />
-<a href="https://github.com/yuaotian"><img src="https://img.shields.io/badge/GitHub-yuaotian-blue?logo=github" /></a>
-<a href="https://yuaotian.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Pancake_AI-red" /></a>
-<img src="https://img.shields.io/badge/WX-JavaRookie666-green?logo=tencentqq" />
-<img href="mailto:yuaotian1998@163.com" src="https://img.shields.io/badge/yuaotian1998@163.com-D14836?logo=gmail&logoColor=white" />
-</p>
-
-
----
-
-### About My Github
-<div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yuaotian&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:yuaotian1998@163.com">
+    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
----
+<br/>
 
-### 📊 WakaTime
-<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
+### 💭 座右铭
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuaotian&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C723%20hrs%2018%20mins-blue)
+<div align="center">
+  <i>「迷茫是架空的屏障，苦旅是暗夜的迷藏。在那悠远时光的尽头，我们终将寻得属于自己的星辰大海。」</i>
+</div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=感谢访问！&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
 
-
-
- Last Updated on 10/01/2025 18:41:11 UTC
-<!--END_SECTION:waka-->
-
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yuaotian) -->
-
----
-
-### Future
-在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激🙏与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
-
-
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
