@@ -1,27 +1,25 @@
 name: generate-snake
- 
+
 on:
   # 每 24 小时自动运行一次
   schedule:
     - cron: "0 */24 * * *"
- 
+
   # 允许手动触发执行
   workflow_dispatch:
- 
+
   # 每当push到master分支时自动执行
   push:
     branches:
-    - master
- 
- 
- 
+      - master
+
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
- 
+
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
@@ -39,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
