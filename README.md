@@ -66,6 +66,10 @@
   <a href="mailto:yuaotian1998@163.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!-- 微信：JavaRookie666 -->
+  <a href="./img/wx_me.png">
+    <img src="https://img.shields.io/badge/微信-ddddd?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
 </div>
 
 <br/>
