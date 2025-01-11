@@ -83,6 +83,6 @@
 <br/>
 <!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=感谢访问！&fontSize=24&fontAlignY=80" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
 </div>
 
